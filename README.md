@@ -1,10 +1,10 @@
-# *Supplier Quality Analysis*
+**Supplier Quality Analysis**
 
-*Project Overview*: 
+**Project Overview**: 
 
 This project analyzed manufacturing defect data to identify key issues impacting product quality and operational efficiency. The objective was to uncover trends in defect rates, assess vendor performance, and offer recommendations to reduce defects and enhance production processes.
 
-*Tools & Techniques*: 
+**Tools & Techniques**: 
 
 • Data Exploration: Excel, Power Query & Python
 
@@ -16,7 +16,7 @@ This project analyzed manufacturing defect data to identify key issues impacting
 
 • Storytelling: Tableau
 
-*Project Highlights*:
+**Project Highlights**:
 
 This analysis achieved the following key outcomes:
 
